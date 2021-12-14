@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://osenaattori.github.io/csb-gdjb8/static/js/main.a85bc293.chunk.js",
+    "main.js.map": "https://osenaattori.github.io/csb-gdjb8/static/js/main.a85bc293.chunk.js.map",
+    "runtime-main.js": "https://osenaattori.github.io/csb-gdjb8/static/js/runtime-main.7145e685.js",
+    "runtime-main.js.map": "https://osenaattori.github.io/csb-gdjb8/static/js/runtime-main.7145e685.js.map",
+    "static/js/2.5c918761.chunk.js": "https://osenaattori.github.io/csb-gdjb8/static/js/2.5c918761.chunk.js",
+    "static/js/2.5c918761.chunk.js.map": "https://osenaattori.github.io/csb-gdjb8/static/js/2.5c918761.chunk.js.map",
+    "index.html": "https://osenaattori.github.io/csb-gdjb8/index.html",
+    "static/js/2.5c918761.chunk.js.LICENSE.txt": "https://osenaattori.github.io/csb-gdjb8/static/js/2.5c918761.chunk.js.LICENSE.txt",
+    "static/media/avatar.4ca2688e.jpg": "https://osenaattori.github.io/csb-gdjb8/static/media/avatar.4ca2688e.jpg",
+    "static/media/design.8ecb3043.svg": "https://osenaattori.github.io/csb-gdjb8/static/media/design.8ecb3043.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7145e685.js",
+    "static/js/2.5c918761.chunk.js",
+    "static/js/main.a85bc293.chunk.js"
+  ]
+}
